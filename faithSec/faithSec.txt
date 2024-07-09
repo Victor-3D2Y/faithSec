@@ -1,0 +1,36 @@
+
+Principais abas que precisamos oferecer para o cliente:
+suporte(contato com a empresa)	menu
+random(login primeiro, explicação do sistema depois) sao dps
+explicação do sistema de uma forma geral	index
+sobre nós(nossos valores, porq tomamos a iniciativa)	aba
+orçamento 	aba
+
+
+sistema
+
+comunicação e segurança bem grande
+botao chamada de emergencia no quarto com um sistema arduino chamado asp32, placa de desenvolvimento web, 
+integrando a chamada para que tudo que seja colocado de informação no sistema do hospital seja integrado]
+até no sistema de luzes dos quartos e do posto de enfermagem
+
+Um botão de chamada de emergência no quarto está conectado a um sistema Arduino utilizando o ESP32, uma placa 
+de desenvolvimento web. Esse sistema é integrado ao ambiente hospitalar para garantir que todas as informações registradas no 
+sistema do hospital sejam atualizadas em tempo real. Isso inclui não apenas o sistema de chamada de emergência, mas também a integração com o 
+sistema de iluminação dos quartos e do posto de enfermagem. Dessa forma, quando o botão de emergência é pressionado, não apenas alerta o pessoal de 
+enfermagem, mas também tablets em lugares pré estabelecidos pela empresa empregadora.
+
+
+tablets em corredores estrategicos pre estabelecidos pela corporação da empresa que nos empregou com a chamada de emergencia 
+leito e quarto e também com informações dos pacinetes: como as alergias o nome a idade nome da mae e comorbidade
+
+Tablets estão instalados em corredores estratégicos designados pela corporação que nos contratou, equipados com um sistema de chamada 
+de emergência para leitos e quartos. Além disso, esses dispositivos exibem informações cruciais dos pacientes, como alergias, nome, idade, nome da mãe 
+e comorbidades.
+
+
+monitoramento de cada atendimento: demora de cada atendimento
+quanto tempo demorou para a enfemeira atender tal paciente, e como o arduino está kigado mostra quando o enfermeiro atendeu
+
+Monitoramento detalhado de cada atendimento: registro do tempo de espera para cada atendimento, permitindo rastrear quanto tempo um enfermeiro levou para atender um paciente específico. O sistema Arduino conectado 
+proporciona informações precisas sobre o momento em que o enfermeiro iniciou o atendimento.
