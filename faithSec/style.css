@@ -1,0 +1,30 @@
+/* #56A3A6
+#004643
+#036D19
+#59FFA0
+#F6EFA6 */
+
+nav{
+    background-color: #004643;
+}
+img{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+   
+}
+main{
+    background-color: #F6EFA6;
+    border-radius: 16px     ;
+}
+li{
+    color: #ffffff;
+}
+h2{
+    color: #ffffff;
+}
+footer{
+    text-align: center;
+    width: 100%;
+    background-color: #036D19;
+}
